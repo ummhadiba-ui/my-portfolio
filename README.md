@@ -1,15 +1,35 @@
-# My Profile Card
+# 💼 Personal Portfolio
 
-This is my first JavaScript project.
+This is my first personal portfolio website created using HTML, CSS, and JavaScript.
 
-## Technologies Used
+## ✨ Features
+
+- About Me section
+- Skills section
+- Projects section
+- Contact section
+- Responsive layout
+- JavaScript button interaction
+
+## 🛠 Technologies Used
+
 - HTML5
 - CSS3
 - JavaScript
 
-## Features
-- Profile card
-- Button with alert
-- Console output
+## 📂 Projects Included
 
-Created by Umm Hadiba
+- Profile Card
+- Daily Quote Card
+
+## 🚀 Future Improvements
+
+- Responsive Navigation Bar
+- Dark Mode
+- More Projects
+- Contact Form
+- Animations
+
+## 👩‍💻 Created By
+
+Hadiba
